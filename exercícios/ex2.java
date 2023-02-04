@@ -16,7 +16,6 @@ class Programa{
     }
 }
 
-
 /* CLASSE */
 class Conta{
 	int numero;
